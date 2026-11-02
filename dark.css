@@ -1,0 +1,40 @@
+/* Tema Modo Oscuro Cyber-Gamer */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#F2DB79 ;
+    color: #FFE778;
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h1 {
+    color:#CCA678;
+    text-align: center;
+}
+
+h2 {
+    color: #B85748;
+    border-bottom: 2px solid #B85748;
+    padding-bottom: 6px;
+}
+
+ul, .card {
+    background-color: #FFDDD6;
+    padding: 18px 25px;
+    border-radius: 12px;
+    border: 1px solid #FFDDD6;
+}
+
+li { margin-bottom: 8px; }
+
+a {
+    color: #E3B6AA;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color:#E37D90;
+    text-decoration: underline;
+}
